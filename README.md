@@ -15,8 +15,8 @@ This code is written in Python with the help of a famous GUI library Tkinter. It
 
 ## Authors
 
-- [@prks61](https://www.github.com/prks61)
-- [@princeverma3844](https://github.com/princeverma3844)
+- [@prks61](https://www.github.com/prks61)-B21CS061
+- [@princeverma3844](https://github.com/princeverma3844)-B21CS060
 
 
 ## Documentation
